@@ -1,1 +1,1 @@
-web: gunicorn main:app --timeout 30 --log-level info
+https://tradingview-telegram-webhook-production-5e7d.up.railway.app/webhook
