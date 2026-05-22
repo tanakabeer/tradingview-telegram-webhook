@@ -1,1 +1,1 @@
-run = "npm start"
+run = "python main.py"
